@@ -49,8 +49,9 @@
 ## **📬 Let's Connect!**
 
 <p align="left">
-<a href="https://linkedin.com/in/danielenriquegomezalcala](https://www.linkedin.com/in/daniel-enrique-gómez-alcalalá-6aa634305" target="_blank">
+<a href="https://www.linkedin.com/in/daniel-enrique-g%C3%B3mez-alcal%C3%A1-6aa634305" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 </a>
 <a href="mailto:danielgomezalcala@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
