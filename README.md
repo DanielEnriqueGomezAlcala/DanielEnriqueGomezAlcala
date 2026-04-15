@@ -8,10 +8,6 @@
 
 ## **⚡ About me**
 
-<picture> 
-  <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="220">
-</picture>
-
 - 🎓 **Bachelor's Thesis:** Currently developing an **automated academic reporting system**, focusing on end-to-end workflow automation.
 - 🏗️ **Infrastructure & Cloud:** Passionate about Docker, container orchestration, and building scalable environments.
 - 💻 **Development:** I enjoy working on **Full Stack applications** and bridging the gap between clean code and reliable deployment. Experienced with **React, Express, and PostgreSQL**, as well as using **Python (Dash)** for data visualization.
